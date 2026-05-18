@@ -211,8 +211,6 @@ The final model comparison is reported in the modelling notebook.
 | Random Forest | 0.523450 | 0.823977 | 0.478923 | 0.605759 | 0.607738 | 	0.821538 |
 | LightGBM | 0.579535	 | 0.819968 | 0.576572 | 0.677060 | 0.617883 | 0.826843 |
 
-> Note: The exact results should be updated after running the notebooks on the downloaded dataset.
-
 ---
 
 ## Key Insights
